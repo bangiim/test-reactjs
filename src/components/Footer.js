@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="bg-dark text-white text-center py-3" id="contact">
       <div className="container">
-        <p>GitHub: @bangiim</p>
+        <p>GitHub: @bangiim test update</p>
         <p>&copy; 2024 My Landing Page. All rights reserved.</p>
       </div>
     </footer>
